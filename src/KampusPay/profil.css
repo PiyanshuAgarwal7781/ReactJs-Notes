@@ -1,0 +1,54 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(9, 9, 27);
+}
+#upparprofil{
+    display: flex;
+    justify-content: center;  
+}
+#mainprofil{
+    position: relative;
+    top: 100px;
+    height: 400px;
+    width: 450px;
+   background-color: rgb(181, 177, 177,0.9999);
+    border-radius: 20px;
+    border: 2px solid white;
+}
+#mainprofil h2{
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+#mainprofil h3{
+    padding: 20px;
+    background-color: white;
+    color: black;
+}
+#mainprofil button{
+    height: 50px;
+    width: 150px;
+    border-radius: 15px;
+    text-align: center;
+    position: relative;
+    top: 50px;
+    left: 20px;
+    margin-right:70px ;
+}
+#mainprofil #btn1{
+    background-color: white;
+    color: black;
+}
+#mainprofil #btn2{
+    background-color: black;
+    color: white;
+}
+#mainprofil #btn1:hover{
+    background-color: grey;
+    color: white;
+}

@@ -1,0 +1,58 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    border-bottom: 2px solid #d9cb69;
+    background-color: white;
+    font-family: Arial, sans-serif;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+  }
+  
+  .logo-gray {
+    color: gray;
+  }
+  
+  .logo-green {
+    color: #c3c55a;
+  }
+  
+  .logo-blue {
+    color: #76a8c8;
+  }
+  
+  .logo-text {
+    font-size: 12px;
+    color: gray;
+    letter-spacing: 3px;
+    margin-left: 10px;
+    align-self: flex-end;
+  }
+  
+  .nav ul {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    font-weight: 600;
+    color: #666;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .nav li:hover {
+    color: black;
+  }
+#div{
+    background-image: url('https://www.google.com/imgres?q=background%20image%20for%20creating%20mentor%20website&imgurl=https%3A%2F%2Fwww.mentoring.org%2Fwp-content%2Fuploads%2F2020%2F05%2FBlueShapes.svg&imgrefurl=https%3A%2F%2Fwww.mentoring.org%2Fmayors-for-mentoring%2F&docid=I3TtMK58AOlh0M&tbnid=0EvDl-Kcm6lr6M&vet=12ahUKEwi_0efN-66MAxWZyDgGHUseBawQM3oECDwQAA..i&w=800&h=379&hcb=2&ved=2ahUKEwi_0efN-66MAxWZyDgGHUseBawQM3oECDwQAA');
+}  

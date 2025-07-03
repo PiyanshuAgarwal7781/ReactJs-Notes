@@ -1,0 +1,79 @@
+{
+  "user": [
+    {
+      "id": "b139",
+      "username": "piyu",
+      "email": "piyu@gmail.co",
+      "password": "hello",
+      "dob": ""
+    },
+    {
+      "id": "82bf",
+      "username": "ram",
+      "email": "hanuman@gmail.com",
+      "password": "hello",
+      "dob": ""
+    },
+    {
+      "id": "aa98",
+      "username": "dhoni",
+      "email": "",
+      "password": "csk",
+      "Dob": ""
+    },
+    {
+      "id": "dde2",
+      "username": "csk",
+      "email": "",
+      "password": "dhoni",
+      "Dob": ""
+    },
+    {
+      "id": "d700",
+      "username": "god",
+      "email": "",
+      "password": "jai",
+      "Dob": ""
+    },
+    {
+      "id": "a8d6",
+      "username": "jai",
+      "email": "",
+      "password": "god",
+      "Dob": ""
+    },
+    {
+      "id": "8f49",
+      "username": "jaii",
+      "email": "",
+      "password": "god",
+      "Dob": ""
+    },
+    {
+      "id": "26a8",
+      "username": "jaii",
+      "email": "",
+      "password": "god",
+      "Dob": ""
+    },
+    {
+      "id": "39d8",
+      "username": "jaii",
+      "email": "",
+      "password": "god",
+      "Dob": ""
+    },
+    {
+      "id": "8faf",
+      "username": "HI",
+      "pass": "J",
+      "email": "piyanshuagarwal08@gmail.com"
+    },
+    {
+      "id": "246a",
+      "username": "23071a04b8",
+      "pass": "j",
+      "email": "mallikarjuna.sindiri@gmail.com"
+    }
+  ]
+}

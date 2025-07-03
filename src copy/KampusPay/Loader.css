@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+html,body,#main{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(9, 9, 67);
+    color: white;   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+#main{
+    display: grid;
+  place-content: center;
+}
+#btn1,#btn2{
+    height: 50px;
+    width: 130px;
+    border-radius: 15px;
+    background-color: rgb(145, 94, 192);
+    color: white;
+    font-size: larger;
+    padding: 5px;
+    margin-right:10px;
+    position: relative;
+    /* top: 50px; */
+    left: 100px;
+}
+h1,h2{
+    font-weight: 900;  
+    font-size:30px;
+}
+#font{
+    font-size: large;
+}
+#btn1{
+    background-color: rgb(255, 255, 255);
+    color: rgb(145, 94, 192);
+}
+#btn1:hover{
+    background-color: rgb(145, 94, 192);
+    color: white;
+}
+#btn2:hover{
+    background-color:rgb(255, 255, 255) ;
+    color: rgb(145, 94, 192);;
+}
+#content{
+    position: relative;
+    top: 200px;
+}
+#uppar{
+    margin-bottom: 80px;
+    display: flex;
+    position: relative;
+    left: 100px;
+}
+img{
+    height: 50px;
+    margin-right: 15px;
+    border-radius: 5px;
+
+}

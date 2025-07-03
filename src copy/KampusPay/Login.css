@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    color: black;
+    font-weight: bold;
+}
+h3{
+    color: rgb(175, 130, 216) ;
+    margin-bottom: 5px;
+}
+p{
+    margin-bottom: 15px;
+}
+#form{
+    position: relative;
+    top: 150px;
+    left: 600px;
+    background-color: azure;
+    height: 400px;
+    width: 350px;
+    padding: 30px;
+    border-radius: 10px;
+}
+#h2{
+color:rgb(175, 130, 216) ;
+margin-bottom: 15px;
+}
+#bottom{
+    margin-top: 15px;
+}
+button{
+    height: 40px;
+}

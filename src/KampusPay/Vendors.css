@@ -1,0 +1,21 @@
+#upparvendors{
+    height: 500px;
+    width: 350px;
+    position: relative;
+    top: 40px;
+    left: 35%;
+   padding: 50px;
+   border-radius: 20px;
+   background-color:rgb(34, 34, 47,0.99);
+}
+#upparvendors h2{
+    text-align: center;
+    position: relative;
+    top: -20px;
+}
+#mainVendors{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}

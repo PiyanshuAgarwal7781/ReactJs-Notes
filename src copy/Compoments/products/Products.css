@@ -1,0 +1,15 @@
+#id{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    
+}
+#first img{
+    width: 150px;
+    height: 200px;
+}
+#first,#second{
+    border: black solid 1px;
+    padding: 50px;
+}

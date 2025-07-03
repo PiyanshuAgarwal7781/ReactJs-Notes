@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: white;
+}
+#mainwallet h2{
+    position: relative;
+    left: 100px;
+}
+#displayWallet{
+    height: 150px;
+    width: 60%;
+    margin-left: 20%;
+    background-color: black;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    border: 35px solid rgb(110, 40, 145);
+    position: relative;
+    top: 50px;
+}
+#displayWallet h3,#displayWallet p{
+    padding: 5px;
+}
+#displayWallet button{
+        height: 50px;
+        width: 400px;
+        border-radius: 20px;
+        color: white;
+        background-color: rgb(110, 40, 145);
+        margin-top: 40px;
+        margin-left: 40px;
+}

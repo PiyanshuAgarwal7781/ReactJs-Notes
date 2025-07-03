@@ -1,0 +1,68 @@
+.about-container {
+    padding: 40px;
+    font-family: 'Segoe UI', sans-serif;
+    background: #f8f9fa;
+    color: #222;
+  }
+  
+  .about-intro, .about-mission, .about-why, .about-team, .about-cta {
+    margin-bottom: 40px;
+  }
+  
+  .about-intro h1 {
+    color: #1e3a8a;
+    font-size: 2.5rem;
+  }
+  
+  .about-mission h2,
+  .about-why h2,
+  .about-team h2 {
+    color: #3749bb;
+    margin-bottom: 10px;
+  }
+  
+  .about-why ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .about-why li::before {
+    content: "✔️ ";
+    margin-right: 8px;
+    color: green;
+  }
+  
+  .team-members {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .team-card {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    width: 200px;
+    text-align: center;
+  }
+  
+  .about-cta {
+    text-align: center;
+  }
+  
+  .about-cta button {
+    background-color: #1e3a8a;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .about-cta button:hover {
+    background-color: #3749bb;
+  }
+  

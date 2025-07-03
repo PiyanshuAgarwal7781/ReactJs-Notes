@@ -1,0 +1,73 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    color: black;
+    font-weight: bold;
+}
+h3{
+    color: rgb(175, 130, 216) ;
+    margin-bottom: 5px;
+}
+p{
+    margin-bottom: 15px;
+}
+#formlogin{
+    position: relative;
+    top: 150px;
+    left: 600px;
+    background-color: azure;
+    height: 400px;
+    width: 350px;
+    padding: 30px;
+    border-radius: 10px;
+}
+#h2{
+color:rgb(175, 130, 216) ;
+margin-bottom: 15px;
+position: relative;
+left: -1px;
+
+}
+#bottom{
+    margin-top: 15px;
+}
+button{
+    height: 40px; 
+    font-size: larger;
+}
+#formlogin div{
+    margin-bottom: 25px;
+}
+#formlogin label{
+    display: block;
+    margin-bottom: 10px;
+}
+#formlogin input,#formlogin button{
+    height: 30px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 2px;
+}
+button{
+    background-color: rgb(175, 130, 216);
+    color: white;
+    font-size: 15px;
+}
+button:hover{
+    background-color: white;
+    color:  rgb(175, 130, 216) ;
+    
+}
+/* #check{
+    position: relative;
+    top: 15px;
+   font-weight: bold;
+} */
+.err{
+    color: red;
+    font-size: small;
+}

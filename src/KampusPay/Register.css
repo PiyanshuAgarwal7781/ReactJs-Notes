@@ -1,0 +1,62 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    color: black;
+    font-weight: bold;
+}
+h3{
+    color: rgb(175, 130, 216) ;
+    margin-bottom: 5px;
+}
+p{
+    margin-bottom: 15px;
+}
+#formregister{
+    position: relative;
+    top: 50px;
+    background-color: azure;
+    height: 600px;
+    width: 350px;
+    padding: 30px;
+    border-radius: 10px;
+}
+#formregister div{
+    margin-bottom: 25px;
+}
+#formregister label{
+    display: block;
+    margin-bottom: 10px;
+}
+#register{
+    display: flex;
+    justify-content: center;
+}
+#formregister input,#formregister button{
+    height: 30px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 2px;
+}
+button{
+    background-color: rgb(175, 130, 216);
+    color: white;
+    font-size: 15px;
+}
+button:hover{
+    background-color: white;
+    color:  rgb(175, 130, 216) ;
+    
+}
+#check{
+    position: relative;
+    top: 15px;
+   font-weight: bold;
+}
+li{
+    list-style-type: none;
+    text-decoration: none;
+}
